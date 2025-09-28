@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/game.schema.json",
+  "$id": "https://raw.githubusercontent.com/Crab-K1ng/Cosmic-Reach-Localization/master/assets/base/lang/game.schema.json",
   "title": "Cosmic Reach language (game)",
   "description": "FinalForEach's Cosmic Reach game localization language schema for game.json",
   "type": "object",
@@ -12,7 +12,7 @@
     "$schema": {
       "type": "string",
       "description": "Special property defining this schema as the schema of the language, e.g. should be same to the root $id property. Since this field does count to the total root minProperties property, it is required.",
-      "const": "https://raw.githubusercontent.com/FinalForEach/Cosmic-Reach-Localization/master/assets/base/lang/game.schema.json"
+      "const": "https://raw.githubusercontent.com/Crab-K1ng/Cosmic-Reach-Localization/master/assets/base/lang/game.schema.json"
     },
     "metadata": {
       "type": "object",
