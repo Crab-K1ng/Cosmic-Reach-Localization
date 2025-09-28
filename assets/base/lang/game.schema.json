@@ -157,6 +157,7 @@
     "zone_base:flat": { "type": "string" },
     "zone_base:moon": { "type": "string" },
     "zone_base:nostalgic_island": { "type": "string" },
-    "zone_base:void": { "type": "string" }
+    "zone_base:void": { "type": "string" },
+    "langSelectionSearch": { "type": "string" }
   }
 }
